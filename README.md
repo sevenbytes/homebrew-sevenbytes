@@ -1,2 +1,3 @@
-# homebrew-formulae
-brew formulas for installing various SevenBytes projects
+# homebrew-sevenbytes
+
+brew formulas for installing SevenBytes applications
